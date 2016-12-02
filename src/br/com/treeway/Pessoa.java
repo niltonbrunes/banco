@@ -1,5 +1,5 @@
 package br.com.treeway;
 
-public class Conta {
+public class Pessoa {
 
 }
